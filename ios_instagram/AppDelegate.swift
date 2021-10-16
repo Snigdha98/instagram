@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  ios_instagram
 //
-//  Created by Prudhvi Tadikonda on 10/7/21.
-//
+
 
 import UIKit
 import Parse
